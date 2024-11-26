@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{sussillo2009generating}
+D.~Sussillo and L.~F. Abbott, ``Generating coherent patterns of activity from
+  chaotic neural networks,'' {\em Neuron}, vol.~63, no.~4, pp.~544--557, 2009.
+
+\bibitem{pitis2016recurrent}
+S.~Pitis, ``Recurrent neural networks in tensorflow i.''
+  \url{https://r2rt.com/recurrent-neural-networks-in-tensorflow-i.html}, 2016.
+
+\bibitem{jaderberg2017decoupled}
+M.~Jaderberg, W.~M. Czarnecki, S.~Osindero, O.~Vinyals, A.~Graves, D.~Silver,
+  and K.~Kavukcuoglu, ``Decoupled neural interfaces using synthetic
+  gradients,'' in {\em Proceedings of the 34th International Conference on
+  Machine Learning-Volume 70}, pp.~1627--1635, JMLR. org, 2017.
+
+\bibitem{dudman2007role}
+J.~T. Dudman, D.~Tsay, and S.~A. Siegelbaum, ``A role for synaptic inputs at
+  distal dendrites: instructive signals for hippocampal long-term plasticity,''
+  {\em Neuron}, vol.~56, no.~5, pp.~866--879, 2007.
+
+\bibitem{somogyi2014temporal}
+P.~Somogyi, L.~Katona, T.~Klausberger, B.~Laszt{\'o}czi, and T.~J. Viney,
+  ``Temporal redistribution of inhibition over neuronal subcellular domains
+  underlies state-dependent rhythmic change of excitability in the
+  hippocampus,'' {\em Philosophical Transactions of the Royal Society B:
+  Biological Sciences}, vol.~369, no.~1635, p.~20120518, 2014.
+
+\bibitem{pascanu2013difficulty}
+R.~Pascanu, T.~Mikolov, and Y.~Bengio, ``On the difficulty of training
+  recurrent neural networks,'' in {\em International conference on machine
+  learning}, pp.~1310--1318, 2013.
+
+\bibitem{guerguiev2017towards}
+J.~Guerguiev, T.~P. Lillicrap, and B.~A. Richards, ``Towards deep learning with
+  segregated dendrites,'' {\em ELife}, vol.~6, p.~e22901, 2017.
+
+\end{thebibliography}
